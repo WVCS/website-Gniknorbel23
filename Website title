@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Aidan's Website</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<center>
+	<h2> Aidan Harrison's AWESOME Website</h2>
+		<img src=file:///C:/Users/1923149/Downloads/large.jpg
+	</center>
+
+</body>
+</html>
